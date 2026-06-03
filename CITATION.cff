@@ -1,0 +1,102 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "GESA: Generative Episodic Simulated Annealing — The Optimization Layer of Agentic Systems"
+abstract: >
+  Intelligent systems that sense, measure, and decide still face a fundamental
+  limitation: they do not improve. GESA (Generative Episodic Simulated Annealing)
+  formalizes the optimization layer that addresses this. Five components operate
+  as an 8-step loop: an immutable episode store, a temperature schedule governing
+  exploration vs exploitation, a weighted similarity function for episode retrieval,
+  a generative synthesis step producing candidate strategies, and a cooling profile
+  determining the system's learning trajectory. GESA was accumulated from practice
+  before it was designed — first implemented inside a production 11-model AI
+  orchestration pipeline, then recognized as a generalizable pattern, then named.
+  It sits as Layer ∞ of the Cormorant Foraging Framework, completing the stack:
+  Sense (3D) → Measure (DRIFT) → Decide (Fetch) → Optimise (GESA).
+authors:
+  - family-names: "Shatny"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+version: 0.1.0
+date-released: 2026-06-04
+license: CC-BY-4.0
+repository-code: "https://github.com/semanticintent/gesa"
+url: "https://gesa.semanticintent.dev"
+keywords:
+  - generative-episodic-memory
+  - simulated-annealing
+  - agentic-optimization
+  - multi-agent-learning
+  - temperature-schedule
+  - episode-retrieval
+  - exploration-vs-exploitation
+  - cormorant-foraging
+  - drift
+  - fetch
+  - gesa
+  - episodic-memory
+  - adaptive-optimization
+  - enterprise-ai
+references:
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Semantic Intent as Governance Primitive for Agentic Systems"
+    year: 2026
+    doi: "10.5281/zenodo.20436088"
+    url: "https://semanticintent.dev/papers/governance-primitive"
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Agentic Traffic Control: Orchestrating AI Agents Across Enterprise Systems"
+    year: 2026
+    doi: "10.5281/zenodo.20533774"
+    url: "https://github.com/semanticintent/agentic-traffic-control"
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Semantic Intent as Single Source of Truth: Immutable Governance for AI-Assisted Development"
+    year: 2025
+    doi: "10.5281/zenodo.17114972"
+    url: "https://semanticintent.dev/papers/semantic-intent-ssot"
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Rune Protocol: A Reactive Binding Grammar for Human-AI Collaborative Systems"
+    year: 2026
+    doi: "10.5281/zenodo.20007883"
+    url: "https://github.com/semanticintent/rune-protocol"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Wake Intelligence MCP: A Five-Layer Temporal Intelligence Server for AI Agents"
+    year: 2026
+    url: "https://wake.semanticintent.dev"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "EMBER: A Semantic Intent Language for Legacy System Modernisation"
+    year: 2026
+    doi: "10.5281/zenodo.19751387"
+    url: "https://github.com/semanticintent/ember"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Strata: A Database Archaeology Methodology for Legacy SQL Systems"
+    year: 2026
+    doi: "10.5281/zenodo.19768151"
+    url: "https://github.com/semanticintent/strata-runtime"
