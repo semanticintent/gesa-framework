@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.pending.svg)](https://doi.org/10.5281/zenodo.pending)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Status: Draft](https://img.shields.io/badge/Status-Draft-yellow.svg)](https://github.com/semanticintent/gesa)
+[![Status: Draft](https://img.shields.io/badge/Status-Draft-yellow.svg)](https://github.com/semanticintent/gesa-framework)
 
 **Author:** Michael Shatny  
 **ORCID:** [0009-0006-2011-3258](https://orcid.org/0009-0006-2011-3258)  
